@@ -15,8 +15,3 @@
 local.properties
 
 *.jar
-*.class
-
-.vscode/
-
-.DS_Store
